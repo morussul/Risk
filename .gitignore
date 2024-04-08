@@ -1,0 +1,14 @@
+# Python virtual environment
+VaR/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Compiled Python files
+*.pyc
+
+# macOS system files
+.DS_Store
+
+# Config files that might contain sensitive information
+config_file.yaml
